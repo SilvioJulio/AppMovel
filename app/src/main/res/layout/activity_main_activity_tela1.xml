@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="@android:color/holo_orange_light"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lami1 disponível"
+        android:textSize="20sp"
+        android:id="@+id/button1"
+        android:background="@android:color/holo_green_light"
+        android:textStyle="bold|italic"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:layout_width="383dp"
+        android:layout_height="wrap_content"
+        android:text="Lami1 estará ocupado das 09:30 as 11:40hs."
+        android:textSize="17sp"
+        android:id="@+id/textView"
+        android:textColor="@android:color/black"
+        android:textIsSelectable="true"
+        android:textStyle="bold"
+         />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lami2 ocupado "
+        android:textSize="20sp"
+        android:id="@+id/button2"
+        android:background="@android:color/holo_red_dark"
+        android:textStyle="bold|italic"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:layout_width="383dp"
+        android:layout_height="wrap_content"
+        android:text= "Lami2 estará disponível as 09:40hs."
+        android:textSize="17sp"
+        android:id="@+id/textView2"
+        android:textColor="@android:color/black"
+        android:textIsSelectable="false"
+        android:textStyle="normal|bold"
+         />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lami3 ocupado "
+        android:textSize="20sp"
+        android:id="@+id/button3"
+        android:background="@android:color/holo_red_dark"
+        android:textStyle="bold|italic"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:layout_width="383dp"
+        android:layout_height="wrap_content"
+        android:text= "Lami3 estará disponível as 08:20hs."
+        android:textSize="17sp"
+        android:id="@+id/textView3"
+        android:textColor="@android:color/black"
+        android:textIsSelectable="false"
+        android:textStyle="normal|bold"
+        />
+
+
+</LinearLayout>
