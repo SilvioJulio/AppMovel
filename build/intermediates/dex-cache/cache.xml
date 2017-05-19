@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/alan/.android/build-cache/b7cf9e7f08e1f98a8ba631d0b3486ee8efcdf72b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/alan/Projects/Mobile/AppMovel/app/build/intermediates/pre-dexed/debug/classes_4b98f3527e180ae00e7cfe3263dbb5d50b616eca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alan/.android/build-cache/df5e8136078d2e7b722c14c19d9866cb5fd2008f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/alan/Projects/Mobile/AppMovel/app/build/intermediates/pre-dexed/debug/classes_5b260c0cd884a313602748fd88d212f038fd92aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/alan/Projects/Mobile/AppMovel/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_61ef4af43b8756cecf76f5bffa245df0a53d3952.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alan/.android/build-cache/7d2c7694888e349b30ff185a8a1213084d93b2a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/alan/Projects/Mobile/AppMovel/app/build/intermediates/pre-dexed/debug/classes_12718dfc3945e830077a4e075c06c284a03815d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alan/.android/build-cache/3da882b79986cc057cfd3b6ae4f96236c2f4f3b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/alan/Projects/Mobile/AppMovel/app/build/intermediates/pre-dexed/debug/classes_ff072d4bed331b9ccadb8c0431d6846fc20e3474.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alan/.android/build-cache/9f0f3a32b32bc9118ae83646a2979447b6616501/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/alan/Projects/Mobile/AppMovel/app/build/intermediates/pre-dexed/debug/classes_14dea524b7b573aecb39d242456dd6cc407ce25b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alan/.android/build-cache/c968d451d970f3fc9d166bc783b15b518cb560ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/alan/Projects/Mobile/AppMovel/app/build/intermediates/pre-dexed/debug/classes_692c9c6b9cbe5164c8d9070eb36cf77a3e28b8eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alan/.android/build-cache/8ab9951439b92858a8e77f3cc09f7b9b9770f4ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/alan/Projects/Mobile/AppMovel/app/build/intermediates/pre-dexed/debug/classes_27063c0f53d8d3527e88065d08814ccdc52cdcbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alan/.android/build-cache/6361718cd2dc8bce78c8f1ddef8c8870b56a71e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/alan/Projects/Mobile/AppMovel/app/build/intermediates/pre-dexed/debug/classes_2dae065eef02606ff286438d933533e0da46552a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alan/.android/build-cache/8759ab11aaeeaddf7f50581f4f5cd024fbae32c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/alan/Projects/Mobile/AppMovel/app/build/intermediates/pre-dexed/debug/classes_b91de3e2a8e00d291422a7c6b95b1a7a222b28fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alan/.android/build-cache/caaf8c6dbfdb57d67610a9b9ad21ce3fd4b8ab1f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/alan/Projects/Mobile/AppMovel/app/build/intermediates/pre-dexed/debug/classes_049c1fde24be50e35eda51a2ee8c08e065a79e42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alan/.android/build-cache/be7c0ea5bd4af5739bc4685f3333d95a7d4b090e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/alan/Projects/Mobile/AppMovel/app/build/intermediates/pre-dexed/debug/classes_0e34d6597ee3deba223a9696f1e4d91e8fa206ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alan/.android/build-cache/a30ff57cf9afaa302624e70d338158af596fe9a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/alan/Projects/Mobile/AppMovel/app/build/intermediates/pre-dexed/debug/classes_07f7f5aafe985b217f133acb0caca84e6fdcb257.jar" />
+    </item>
+
+</items>
