@@ -32,10 +32,12 @@ public class MainActivityTela1 extends AppCompatActivity {
         int [] noite1 = {0,0,0,1};
 
         Lami lami = new Lami(1,manha, noite);
-        Lami lami1 = new Lami(2,manha, noite);
+        Lami lami1 = new Lami(2,manha1, noite1);
 
         lamis.add(lami);
         lamis.add(lami1);
+
+        //--
 
         ListView listView = (ListView) findViewById(R.id.listLami);
         ArrayAdapter adapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, lamis);
@@ -49,14 +51,11 @@ public class MainActivityTela1 extends AppCompatActivity {
                 Intent it = new Intent(MainActivityTela1.this, MainActivityTela2.class);
                 it.putExtra("id", position);
                 startActivity(it);
-                
+
                 return false ;
             }
         });
 
-
-
     }
-
 
 }
